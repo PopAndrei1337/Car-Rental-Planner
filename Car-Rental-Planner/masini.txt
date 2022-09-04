@@ -1,0 +1,6 @@
+1 Toyota Corolla rosu Timisoara 123
+2 Mercedes A180 gri Lugoj 145
+3 Maserati Levante negru Timisoara 185
+4 Ford Puma albastru Timisoara 174
+5 Fiat 500 gri Timisoara 164
+6 Fiat 500 alb Lugoj 125

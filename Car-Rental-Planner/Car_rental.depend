@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1661871492 source:e:\c++\car_rental\util.cpp
+	"util.h"
+
+1662140883 source:e:\c++\car_rental\main.cpp
+	<bits/stdc++.h>
+	"Masina.h"
+	"ListaMasini.h"
+
+1661871422 e:\c++\car_rental\util.h
+	<string>
+	<sstream>
+
+1662140703 source:e:\c++\car_rental\masina.cpp
+	"Masina.h"
+
+1662140803 e:\c++\car_rental\masina.h
+	<string>
+	<sstream>
+
+1662141678 source:e:\c++\car_rental\listamasini.cpp
+	"ListaMasini.h"
+
+1662140655 e:\c++\car_rental\listamasini.h
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	"Masina.h"
+
